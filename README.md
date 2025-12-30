@@ -36,3 +36,6 @@ gnuclad HurdTimeline.csv HurdTimeline.svg HurdTimeline.conf
 ````
 flatpak run net.launchpad.Gnuclad HurdTimeline.csv HurdTimeline.svg HurdTimeline.conf
 ````
+### Other
+
+This was heavily inspired by [os-family-tree](https://github.com/eylenburg/os-family-tree) and the [Linux Distribution Timeline](https://commons.wikimedia.org/wiki/File:Linux_Distribution_Timeline.svg)
